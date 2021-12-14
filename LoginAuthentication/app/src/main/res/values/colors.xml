@@ -8,6 +8,10 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="bg_color">	#708090</color>
-    <color name="charcoal_grey">#36454F</color>
+    <color name="charcoal_grey">#28343C</color>
+    <color name="start_rose">#960144</color>
+    <color name="mid_rose">#BE5284</color>
+    <color name="end_rose">#E7A3C4</color>
+
 
 </resources>
